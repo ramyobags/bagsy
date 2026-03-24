@@ -19,16 +19,16 @@
 </p>
 
 <p align="center">
-  <code>Bagsy Wallet: 62HKuAJ1XRcEtzsLF2mhgoJq42bMChBsHVyLdwihD1b7</code>
+  <code>Ramyobagsapp Wallet: 8vR4c7eP3CLpseLiLCVeF8Chwz4i6hoYJxhFArnPPsC3</code>
 </p>
 
 <p align="center">
-  <code>Contract Address: 57YgUStRWXbs2mrGXjJeaMZLDPZUYjMsBXmkZ91LBAGS</code>
+  <code>Contract Address: EcmFbvoE6MWp4KjdiFMbnVWEShPvbHMkXBstPbHMBAGS</code>
 </p>
 
 <p align="center">
-  <a href="https://bags.fm/57YgUStRWXbs2mrGXjJeaMZLDPZUYjMsBXmkZ91LBAGS">
-    <img src="https://img.shields.io/badge/%24BAGSY-Live%20on%20Bags-000000?style=for-the-badge" alt="$BAGSY on Bags" />
+  <a href="https://bags.fm/EcmFbvoE6MWp4KjdiFMbnVWEShPvbHMkXBstPbHMBAGS">
+    <img src="https://img.shields.io/badge/%24BAGSY-Live%20on%20Bags-000000?style=for-the-badge" alt="$RAMOCOIN on Bags" />
   </a>
 </p>
 

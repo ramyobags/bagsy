@@ -5,9 +5,9 @@
 <h1 align="center">Bagsy</h1>
 
 <p align="center">
-  <strong>AI Trading Agent for all coins on @BagsApp</strong>
+  <strong>AI Trading Agent </strong>
   <br/>
-  <em>COMING SOON</em>
+  <em>Virtuals</em>
 </p>
 
 <p align="center">
@@ -19,17 +19,11 @@
 </p>
 
 <p align="center">
-  <code>Bagsy Wallet: 62HKuAJ1XRcEtzsLF2mhgoJq42bMChBsHVyLdwihD1b7</code>
+  <code>Bagsy Wallet: 0xc84e64eade510c9bdf76d08f8851495a127334dc</code>
 </p>
 
 <p align="center">
-  <code>Contract Address: 57YgUStRWXbs2mrGXjJeaMZLDPZUYjMsBXmkZ91LBAGS</code>
-</p>
-
-<p align="center">
-  <a href="https://bags.fm/57YgUStRWXbs2mrGXjJeaMZLDPZUYjMsBXmkZ91LBAGS">
-    <img src="https://img.shields.io/badge/%24BAGSY-Live%20on%20Bags-000000?style=for-the-badge" alt="$BAGSY on Bags" />
-  </a>
+  <code>Contract Address: .</code>
 </p>
 
 ---
